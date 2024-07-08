@@ -4,6 +4,6 @@
         3.1.0
     </div>
     <strong>Copyright &copy; 2014-2021
-        <a href="https://adminlte.io">AdminLTE.io</a>.</strong>
+        <a href="https://adminlte.io">Muhammad Ajwah</a>.</strong>
     All rights reserved.
 </footer>
