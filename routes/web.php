@@ -10,16 +10,12 @@ use App\Http\Controllers\AuthenticateController;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\CustomerController;
 use App\Http\Controllers\PesananController;
-use App\Http\Controllers\PriceListController;
-use App\Http\Controllers\TalentController;
-use App\Http\Controllers\TalentPriceListController;
+
 
 
 Route::resource('contacts', ContactController::class);
 Route::resource('customers', CustomerController::class);
-Route::resource('price_lists', PriceListController::class);
-Route::resource('talents', TalentController::class);
-Route::resource('talent_price_lists', TalentPriceListController::class);
+
 
 /*
 |--------------------------------------------------------------------------
