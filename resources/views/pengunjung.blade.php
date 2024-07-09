@@ -41,7 +41,7 @@
             <div class="container">
                 <div class="masthead-subheading">Welcome To Our Website!</div>
                 <div class="masthead-heading text-uppercase">Musik Panting Barakatan</div>
-                <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
+                
             </div>
         </header>
         <!-- Portfolio Grid-->
