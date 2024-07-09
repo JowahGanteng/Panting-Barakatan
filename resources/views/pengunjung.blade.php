@@ -388,7 +388,7 @@
     <!-- Submit Button-->
     <div class="text-center">
         <button class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
-        <a href="https://wa.me/08980320317" class="btn btn-success btn-xl text-uppercase">WhatsApps</a>
+        <a href="https://wa.me/628980320317" class="btn btn-success btn-xl text-uppercase">WhatsApps</a>
     </div>
 </form>
 
@@ -402,7 +402,7 @@
                     <div class="col-lg-4 text-lg-start">Copyright &copy;musik panting 2024</div>
                     <div class="col-lg-4 my-3 my-lg-0">
                         <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/musikpantingbarakatan/" aria-label="LinkedIn"><i class="fab fa-instagram"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="https://wa.me/08980320317" aria-label="LinkedIn"><i class="fab fa-whatsapp"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="https://wa.me/628980320317" aria-label="LinkedIn"><i class="fab fa-whatsapp"></i></a>
                     </div>
                     <div class="col-lg-4 text-lg-end">
                         <a class="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
